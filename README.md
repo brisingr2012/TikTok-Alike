@@ -1,7 +1,7 @@
 # Funcial Social Network Web App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Demo: ![Project Demo](https://raw.githubusercontent.com/FatFriedFish/Funcial/master/images/demo.gif "Project Demo")
+Demo: ![Project Demo](https://raw.githubusercontent.com/brisingr2012/TikTok-Alike/master/images/demo.gif "Project Demo")
 
 ## Introductions
 Funcial is Tik-Tok liked social network web application which provides users with three main features:
@@ -12,25 +12,25 @@ Funcial is Tik-Tok liked social network web application which provides users wit
 
 ## Pages
 - Welcome Page
-![Funcial Welcome Page](https://raw.githubusercontent.com/FatFriedFish/Funcial/master/images/welcome.PNG "Funcial Welcome Page")
+![Funcial Welcome Page](https://raw.githubusercontent.com/brisingr2012/TikTok-Alike/master/images/welcome.PNG "Funcial Welcome Page")
 
 - Login
- ![Login Page](https://raw.githubusercontent.com/FatFriedFish/Funcial/master/images/login.PNG "login")
+ ![Login Page](https://raw.githubusercontent.com/brisingr2012/TikTok-Alike/master/images/login.PNG "login")
 
 - Register
- ![Register Page](https://raw.githubusercontent.com/FatFriedFish/Funcial/master/images/register.PNG "register")
+ ![Register Page](https://raw.githubusercontent.com/brisingr2012/TikTok-Alike/master/images/register.PNG "register")
  
 - Home
- ![Home Page](https://raw.githubusercontent.com/FatFriedFish/Funcial/master/images/home.PNG "home")
+ ![Home Page](https://raw.githubusercontent.com/brisingr2012/TikTok-Alike/master/images/home.PNG "home")
 
 - Create New Post
- ![Create New Post Page](https://raw.githubusercontent.com/FatFriedFish/Funcial/master/images/createnewpost.PNG "Create New Post")
+ ![Create New Post Page](https://raw.githubusercontent.com/brisingr2012/TikTok-Alike/master/images/createnewpost.PNG "Create New Post")
 
 - Video Page
- ![Video Page](https://raw.githubusercontent.com/FatFriedFish/Funcial/master/images/video.PNG "Video Page")
+ ![Video Page](https://raw.githubusercontent.com/brisingr2012/TikTok-Alike/master/images/video.PNG "Video Page")
 
 - Map
- ![Map Page](https://raw.githubusercontent.com/FatFriedFish/Funcial/master/images/map.PNG "Map Page")
+ ![Map Page](https://raw.githubusercontent.com/brisingr2012/TikTok-Alike/master/images/map.PNG "Map Page")
 
 ## Language and Framework
 - Language: JavaScript(ES 6), HTML, CSS.
