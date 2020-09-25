@@ -1,0 +1,14 @@
+.banner-image {
+    height: fit-content;
+    width: fit-content;
+}
+
+.banner-content {
+    color: #61dafb;
+    font-size: medium;
+}
+
+.banner-icon {
+    padding-top: 20px;
+    color: #108ee9;
+}
