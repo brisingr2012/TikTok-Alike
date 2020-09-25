@@ -1,7 +1,7 @@
 # Funcial Social Network Web App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Demo: ![Project Demo](https://raw.githubusercontent.com/FatFriedFish/Funcial/master/images/demo.gif "Project Demo")
+Demo: ![Project Demo](https://raw.githubusercontent.com/brisingr2012/TikTok-Alike/master/images/demo.gif "Project Demo")
 
 ## Introductions
 Funcial is Tik-Tok liked social network web application which provides users with three main features:
